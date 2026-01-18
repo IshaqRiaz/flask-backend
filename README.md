@@ -1,2 +1,4 @@
-# flask-backend
-Backend development using Python Flask as part of my full stack learning journey.
+# Flask Backend
+
+This repository contains a basic Flask backend application.
+It is part of my Full Stack Developer learning path.
